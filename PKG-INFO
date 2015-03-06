@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: South
-Version: 1.0.2
+Version: 1.0.2.1
 Summary: South: Migrations for Django
 Home-page: http://south.aeracode.org/
 Author: Andrew Godwin & Andy McCurdy
